@@ -1,0 +1,2 @@
+rootProject.name='TDM2_TP1_Exo5'
+include ':app'
